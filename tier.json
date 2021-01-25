@@ -1,0 +1,38 @@
+[
+    {
+        "leagueId": "88e28482-2129-40bc-98e3-fbb8506b6eaa",
+        "queueType": "RANKED_SOLO_5x5",
+        "tier": "SILVER",
+        "rank": "IV",
+        "summonerId": "3KCK2Be7NkU6G8Ij4vUR1QatK7WHHQxw1DqBHtHVO_BUpbU",
+        "summonerName": "광모광모광모",
+        "leaguePoints": 29,
+        "wins": 41,
+        "losses": 76,
+        "veteran": false,
+        "inactive": false,
+        "freshBlood": false,
+        "hotStreak": false
+    },
+    {
+        "leagueId": "35edaa03-c639-45d3-97df-5ee8ae1f3070",
+        "queueType": "RANKED_FLEX_SR",
+        "tier": "BRONZE",
+        "rank": "I",
+        "summonerId": "3KCK2Be7NkU6G8Ij4vUR1QatK7WHHQxw1DqBHtHVO_BUpbU",
+        "summonerName": "광모광모광모",
+        "leaguePoints": 100,
+        "wins": 8,
+        "losses": 7,
+        "veteran": false,
+        "inactive": false,
+        "freshBlood": true,
+        "hotStreak": false,
+        "miniSeries": {
+            "target": 3,
+            "wins": 0,
+            "losses": 2,
+            "progress": "LLNNN"
+        }
+    }
+]
